@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jessicacardoso/jessicacardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Olá 👋, sou Jéssica Cardoso
+#### Mestra em Ciência de Dados | Pesquisadora
+![Mestra em Ciência de Dados | Pesquisadora](https://abracd.org/wp-content/uploads/2020/07/banner_data_science1.png)
+
+Tenho interesse em diversas áreas da **Inteligência Artificial**, tais como *Processamento de Linguagem Natural*, *Aprendizado de Máquina*, *Análise de Séries Temporais*, *Visão Computacional*, *Processamento de Imagens*, e também em Ciência de Dados.  
+
+Atualmente realizo pesquisa independente na área de *Processamento de Linguagem Natural* no projeto pessoal [AcademicAI](https://academicai.vercel.app/).
+
+Skills: Python | R | Javascript | C/C++ | SQL | HTML | CSS 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicacardoso&show_icons=true)  
+
