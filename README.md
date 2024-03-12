@@ -25,7 +25,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacardoso&hide_progress=true&theme=rose&locale=pt-br"/>
 </a>
 </p>
-
-<div align="center">
-  <h3><b>📍 Número de visitas ao perfil</b></h3>
-</div>
