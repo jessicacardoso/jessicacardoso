@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFlse8oqX1L5g/profile-displaybackgroundimage-shrink_350_1400/0/1708986577474?e=1714608000&v=beta&t=eaUCo8XpMozEMZPZTKJmLgTDs8q-uXrRhdi_ccRQwl8" width="100%"/>
+<img src="banner.png" width="100%"/>
 
 <h2>
     🔍 Olá, meu nome é 
